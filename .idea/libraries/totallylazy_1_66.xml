@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="totallylazy-1.66">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/libs/totallylazy-1.66.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/libs/totallylazy-1.66-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
