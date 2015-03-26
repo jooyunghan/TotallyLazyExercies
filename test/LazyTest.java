@@ -23,7 +23,8 @@ import static org.junit.Assert.assertTrue;
  */
 public class LazyTest {
     @Test
-    public void testPartial() {
+    public void testPartial
+            () {
         Function2<Integer, Integer, Integer> add = new Function2<Integer, Integer, Integer>() {
             @Override
             public Integer call(Integer a, Integer b) throws Exception {
